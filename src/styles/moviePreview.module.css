@@ -1,0 +1,17 @@
+.container {
+  border: 3px solid white;
+  width: 85%;
+  height: 100%;
+  margin: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: large;
+  text-wrap: nowrap;
+  border-radius: 10px;
+}
+
+.container:hover {
+  background-color: aqua;
+  color: black;
+}
